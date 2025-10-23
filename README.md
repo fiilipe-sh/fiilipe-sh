@@ -1,19 +1,19 @@
 <h1 align="center">👋 Olá, eu sou o Filipe Constantino</h1>
 
 <h3 align="center">
-🛡️ Estudante de Cybersegurança | 💻 Desenvolvedor Full Stack | 🐧 Apaixonado por Linux, OSINT e Pentest
+🛡️ Estudante de Cybersegurança | 💻 Desenvolvedor Full Stack | 🐧 Apaixonado por Linux, OSINT, Pentest e Back-end
 </h3>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou um **entusiasta da segurança da informação**, com foco em **Pentest**, **OSINT** e **administração de sistemas Linux**.  
-Tenho interesse em compreender como sistemas funcionam em níveis profundos — explorando vulnerabilidades, automatizando tarefas e fortalecendo a segurança de aplicações.  
+Sou um **entusiasta da segurança da informação** e **desenvolvedor Back-end**, com foco em **Pentest**, **OSINT** e **administração de sistemas Linux**.  
+Tenho interesse em compreender como sistemas funcionam em níveis profundos — explorando vulnerabilidades, automatizando tarefas e construindo aplicações robustas e seguras.  
 
-Acredito que a segurança é um **processo contínuo de aprendizado**, e que o conhecimento técnico deve vir acompanhado de uma mentalidade ética e curiosa.  
+Acredito que a segurança e a qualidade de código são **processos contínuos de aprendizado**, e que o conhecimento técnico deve vir acompanhado de curiosidade e ética.  
 
-> “A curiosidade é o que transforma conhecimento em segurança.”
+> “A curiosidade é o que transforma conhecimento em segurança e código em excelência.”
 
 ---
 
@@ -31,10 +31,15 @@ Acredito que a segurança é um **processo contínuo de aprendizado**, e que o c
 #### 🧰 Ferramentas & Sistemas  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-6DB33F?style=flat-square&logo=metasploit&logoColor=white)
+![SET](https://img.shields.io/badge/-SET-0A84FF?style=flat-square&logo=deezer&logoColor=white)
+![sqlmap](https://img.shields.io/badge/-sqlmap-DB4C3F?style=flat-square&logo=sqlite&logoColor=white)
 ![OSINT](https://img.shields.io/badge/-OSINT-1E90FF?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -44,7 +49,22 @@ Acredito que a segurança é um **processo contínuo de aprendizado**, e que o c
 - 🔍 **Pentest**, exploração e análise de vulnerabilidades  
 - 🧠 **OSINT** e coleta de informações estratégicas  
 - 🐧 **Administração e automação Linux**  
-- ⚙️ Desenvolvimento de **ferramentas e scripts de segurança**
+- ⚙️ **Desenvolvimento Back-end**, APIs e serviços robustos  
+- ⚡ Criação de **ferramentas e scripts de segurança**
+
+---
+
+### 🛠️ Ferramentas que uso / conheço (famosas no mercado)
+- **Metasploit** — exploração e desenvolvimento de payloads  
+- **sqlmap** — automação de ataques SQL Injection (SQLi)  
+- **Burp Suite** — proxy, scanner e manipulação de requests  
+- **SET (Social-Engineer Toolkit)** — campanhas de engenharia social  
+- **Nmap** — descoberta de hosts e varredura de portas  
+- **Wireshark** — análise de tráfego de rede  
+- **Nikto** — scanner de vulnerabilidades web  
+- **Hydra / Medusa** — brute-force de serviços e autenticações  
+- **John the Ripper / Hashcat** — análise e quebra de hashes  
+- **Node.js / PostgreSQL** — desenvolvimento de APIs e back-end seguro
 
 ---
 
@@ -75,5 +95,5 @@ Acredito que a segurança é um **processo contínuo de aprendizado**, e que o c
 
 <p align="center">
   <i>“Code. Break. Learn. Repeat.”</i><br>
-  <i>Construindo segurança, uma linha de código por vez.</i>
+  <i>Construindo segurança e back-end, uma linha de código por vez.</i>
 </p>
