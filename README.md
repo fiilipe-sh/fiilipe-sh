@@ -38,8 +38,6 @@ Acredito que a segurança e a qualidade de código são **processos contínuos d
 ![SET](https://img.shields.io/badge/-SET-0A84FF?style=flat-square&logo=deezer&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/-sqlmap-DB4C3F?style=flat-square&logo=sqlite&logoColor=white)
 ![OSINT](https://img.shields.io/badge/-OSINT-1E90FF?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
