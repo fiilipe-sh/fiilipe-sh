@@ -62,7 +62,6 @@ Acredito que a segurança e a qualidade de código são **processos contínuos d
 - **Nikto** — scanner de vulnerabilidades web  
 - **Hydra / Medusa** — brute-force de serviços e autenticações  
 - **John the Ripper / Hashcat** — análise e quebra de hashes  
-- **Node.js / PostgreSQL** — desenvolvimento de APIs e back-end seguro
 
 ---
 
