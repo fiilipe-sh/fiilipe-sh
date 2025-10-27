@@ -24,12 +24,15 @@ Acredito que a segurança e a qualidade de código são **processos contínuos d
 #### 💻 Linguagens  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Sinatra](https://img.shields.io/badge/-Sinatra-000000?style=flat-square&logo=sinatra&logoColor=white)
+![Sinatra](https://img.shields.io/badge/-Sinatra-000000?style=flat-square&logo=ruby&logoColor=white)
+![Sequel](https://img.shields.io/badge/-Sequel-FF5555?style=flat-square&logo=ruby&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 
 
 
