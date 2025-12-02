@@ -3,8 +3,6 @@
   &nbsp; <strong>FILIPE CONSTANTINO</strong> &nbsp;
 </h1>
 
-
-
 <p align="center">
   <img src="https://media.tenor.com/BOOLcGlfkV8AAAAC/lain-experiments.gif" height="180">
 </p>
@@ -58,12 +56,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fiilipe-sh">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
+
+
+  <!-- Email -->
   <a href="mailto:constantinobundle@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/const.7">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+
 </p>
 
 <p align="center">
