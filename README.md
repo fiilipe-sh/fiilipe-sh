@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnometerminal.svg" height="40">
-  &nbsp; <strong>FILIPE CONSTANTINO</strong> &nbsp;
+  &nbsp; <strong> CONSTANTINO</strong> &nbsp;
 </h1>
 
 <p align="center">
