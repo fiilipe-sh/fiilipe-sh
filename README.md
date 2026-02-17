@@ -43,7 +43,8 @@
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=ruby,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=ruby,cpp,bash,dart,flutter,supabase" />
+
 
   <!-- Ferramentas -->
   <img src="https://skillicons.dev/icons?i=docker,sqlite" />
